@@ -60,7 +60,7 @@
 
  .card> p{
     position: absolute;
-    right: 0;
+    right:0;
     writing-mode: vertical-lr;
     font-family: 'PT Serif', serif;
     font-size: 12px;
@@ -68,7 +68,7 @@
  }
 
  .card> img{
-    width: 85%;
+    width: 90%;
     margin-bottom: .5rem;
  }
 
@@ -99,13 +99,13 @@
     }
 
     .card> img{
-        width: 92%;
+        width: 93%;
      }
 
      .cards-container{
         margin-top: 8rem;
         column-gap: 6rem;
-        row-gap: 6rem;
+        row-gap: 4rem;
         margin-bottom: 6rem;
      }
      .cards-container .card:nth-child(2n){
