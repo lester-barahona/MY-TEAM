@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-notfound-les.netlify.app">
+    <a href="https://my-team-les.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -45,5 +45,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 ## Contact
-- Instagram [@lester_b_a](https://{instagram.com/lester_b_a/})
-- GitHub [@lester-barahona](https://{github.com/lester-barahona})
+- Instagram [@lester_b_a](https://instagram.com/lester_b_a/)
+- GitHub [@lester-barahona](https://github.com/lester-barahona)
